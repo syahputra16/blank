@@ -1,0 +1,92 @@
+-- ========================================================
+utc                    = 7
+    yourDiscordid          = "-"
+
+    Bot = {}
+    Bot["-"] = {
+        -- ======================= DISCORD SETTING =========================
+        normal_webhook            = true,
+        webhookdc                 = "--",
+
+        edited_webhook           = false,
+        status_spam_tag          = false,
+        id_massage_status        = "",
+        id_masagge_sevew         = "",
+        id_message_sf            = "",
+        id_message_mooncake      = "",
+
+        webhookdc_edited_status    = "",
+        webhookdc_edited_saveworld  = "",
+        webhookdc_edited_start  = "",
+        webhookdc_edited_mooncake = "",
+
+        add_remove_bot           = false,
+        passwordBot              = "", 
+
+        backupbot                = true,
+        listBackupBot            ={"-", "-"}
+        pass_backupBot           = "-",
+        use_proxy_socks5         = false,
+        proxy                    = "ip:port:username:pass",
+
+        worlds                   = {"_"},
+        worldwhile               = "false",
+        seedid                   = 4585
+        world_start              = 1,
+        door_id                  = "_",
+    }
+    Bot["_"] = {
+        -- ========================= DISCORD SETTING ==============================
+        normal_webhook            = true,
+        webhookdc                 = "_",
+    
+        edited_webhook            = false,
+        status_spam_tag           = false,
+        id_message_status         = "_",
+        id_message_savew          = "_",
+        id_message_sf             = "_",
+        id_message_mooncake       = "_",
+
+        webhookdc_edited_status   = "_",
+        webhookdc_edited_saveworld = "_",
+        webhookdc_edited_start = "_",
+        webhookdc_edited_mooncake = "_",
+
+        add_remove_bot           = false,
+        passwordBot              = "", 
+
+        backupbot                = true,
+        listBackupBot            ={"-", "-"}
+        pass_backupBot           = "-",
+        use_proxy_socks5         = false,
+        proxy                    = "ip:port:username:pass",
+
+        worlds                   = {"_"},
+        worldwhile               = "false",
+        seedid                   = 4585
+        world_start              = 1,
+        door_id                  = "_",
+    }
+
+
+    isRestbot                = true
+    listofTime               = {
+        {
+            start_time = {hour=17, min=0},
+            end_time  = {hour=17, min=5}
+        },
+        {
+            start_time = {hour=12, min=31},
+            end_time = {hour=12, min=38}
+         },
+
+
+
+
+
+
+
+
+
+
+
